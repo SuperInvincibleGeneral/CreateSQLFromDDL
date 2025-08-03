@@ -1,0 +1,2 @@
+# CreateSQLFromDDL
+外部キー設定DDLからSQLの結合部分を自動生成したい
